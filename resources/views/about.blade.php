@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>test laravel</title>
+	<title>About</title>
 </head>
 <body>
-    <h1>Coffee time</h1>
+	<h1>About page</h1>
 </body>
 </html>
